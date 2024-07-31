@@ -1,2 +1,3 @@
 # Kaggle-Credit-Rating-Analysis
 Classification Project on Credit Risk Dataset from Kaggle 
+--This is a short classification project from the Credit Risk Dataset on Kaggle where I optimized, transformed, and implemented a Random Forest Classifier on a new dataset. There is still some work to do - the first iteration of testing the model where I removed features after the initial transformation and re-fitted the data proved to be more accurate than the standard preprocessing pipeline. I will be making a custom transformer for this down the road! I had a lot of fun tackling data that I had not been exposed to before and I was pleased with the result, although there is obviously room for improvement! 
